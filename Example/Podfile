@@ -1,0 +1,6 @@
+pod "ASCFlatUIColor", :path => "../"
+
+target "ASCFlatUIColorsTests" do
+	pod "Specta"
+	pod "Expecta"
+end
