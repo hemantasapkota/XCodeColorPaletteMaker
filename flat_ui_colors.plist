@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>turquoise</key>
+    <string>#1abc9c</string>
+    <key>greensea</key>
+    <string>#16a085</string>
+    <key>emerald</key>
+    <string>#2ecc71</string>
+    <key>peterriver</key>
+    <string>#3498db</string>
+    <key>belizehole</key>
+    <string>#2980b9</string>
+    <key>amethyst</key>
+    <string>#9b59b6</string>
+    <key>wisteria</key>
+    <string>#8e44ad</string>
+    <key>wetasphalt</key>
+    <string>#34495e</string>
+    <key>midnightblue</key>
+    <string>#2c3e50</string>
+    <key>sunflower</key>
+    <string>#f1c40f</string>
+    <key>orange</key>
+    <string>#f39c12</string>
+    <key>carrot</key>
+    <string>#e67e22</string>
+    <key>pumpkin</key>
+    <string>#d35400</string>
+    <key>alizarin</key>
+    <string>#e74c3c</string>
+    <key>pomegranate</key>
+    <string>#c0392b</string>
+    <key>clouds</key>
+    <string>#ecf0f1</string>
+    <key>silver</key>
+    <string>#bdc3c7</string>
+    <key>concrete</key>
+    <string>#95a5a6</string>
+    <key>asbestos</key>
+    <string>#7f8c8d</string>
+</dict>
+</plist>

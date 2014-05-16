@@ -18,6 +18,7 @@
 		2EDF92DA1925A36100A524F5 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EDF92B91925A36000A524F5 /* Cocoa.framework */; };
 		2EDF92E21925A36100A524F5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2EDF92E01925A36100A524F5 /* InfoPlist.strings */; };
 		2EDF92E41925A36100A524F5 /* ColorPaletteMakerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EDF92E31925A36100A524F5 /* ColorPaletteMakerTests.m */; };
+		2EDF92F71925A90900A524F5 /* flat_ui_colors.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2EDF92F61925A90900A524F5 /* flat_ui_colors.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		2EDF92DF1925A36100A524F5 /* ColorPaletteMakerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ColorPaletteMakerTests-Info.plist"; sourceTree = "<group>"; };
 		2EDF92E11925A36100A524F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2EDF92E31925A36100A524F5 /* ColorPaletteMakerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorPaletteMakerTests.m; sourceTree = "<group>"; };
+		2EDF92F61925A90900A524F5 /* flat_ui_colors.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = flat_ui_colors.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		2EDF92AD1925A36000A524F5 = {
 			isa = PBXGroup;
 			children = (
+				2EDF92F61925A90900A524F5 /* flat_ui_colors.plist */,
 				2EDF92BF1925A36000A524F5 /* ColorPaletteMaker */,
 				2EDF92DD1925A36100A524F5 /* ColorPaletteMakerTests */,
 				2EDF92B81925A36000A524F5 /* Frameworks */,
@@ -232,6 +235,7 @@
 			files = (
 				2EDF92C41925A36000A524F5 /* InfoPlist.strings in Resources */,
 				2EDF92D21925A36100A524F5 /* Images.xcassets in Resources */,
+				2EDF92F71925A90900A524F5 /* flat_ui_colors.plist in Resources */,
 				2EDF92CA1925A36000A524F5 /* Credits.rtf in Resources */,
 				2EDF92D01925A36100A524F5 /* MainMenu.xib in Resources */,
 			);
@@ -466,6 +470,7 @@
 				2EDF92E91925A36100A524F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EDF92EA1925A36100A524F5 /* Build configuration list for PBXNativeTarget "ColorPaletteMakerTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +479,7 @@
 				2EDF92EC1925A36100A524F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
